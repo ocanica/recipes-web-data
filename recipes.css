@@ -1,0 +1,35 @@
+body {
+    font-family: Arial, sans-serif;
+    font-size: 1em;
+}
+td  {
+    padding: .5em;
+    border: 1px solid;
+}
+th  {
+    font-weight: bold;
+    padding: .5em;
+    border: 1px solid;
+}
+li  {
+    margin-bottom: 1em;
+}
+#heading {
+    text-align: center;
+}
+.details    {
+    width: 65%;
+    margin: 0 auto; 
+    border-collapse: collapse;
+    border-top: .75em solid green;
+}
+.nutri  {
+    text-align:center;
+    width: 10%;
+}
+.ingred {
+    vertical-align:top;
+    width: 20%;
+}
+
+

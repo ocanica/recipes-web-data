@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="http://titan.dcs.bbk.ac.uk/~bheadb01/wd/wdtma/recipes.xsl"?>
+<recipes 
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+	xsi:noNamespaceSchemaLocation="http://titan.dcs.bbk.ac.uk/~bheadb01/wd/wdtma/recipes.xsd">
+	<recipe id="1">
+		<title>Coconut and banana pancakes</title>
+		<description>	
+			These vegan coconut milk pancakes with passion fruit and banana topping couldn't be simpler. They're perfect for a brunch with family and friends		
+		</description>
+		<time>
+			<prep>10</prep>
+			<cook>15</cook>
+		</time>
+		<difficulty>Easy</difficulty>
+		<serves>10</serves>		
+		<nutrition>
+			<kcal>179</kcal>
+			<fat>8g</fat>
+			<saturates>6g</saturates>
+			<carbs>23g</carbs>
+			<sugars>11g</sugars>
+			<fibre>1g</fibre>
+			<protein>2g</protein>
+			<salt>0.2g</salt>
+		</nutrition>
+		<ingredients>
+			<ingredient>150g plain flour</ingredient>
+			<ingredient>2 tsp baking powder</ingredient>
+			<ingredient>3 tbsp golden caster sugar</ingredient>
+			<ingredient>400ml can coconut milk, shaken well</ingredient>
+			<ingredient>vegetable oil, for frying</ingredient>
+			<ingredient>1-2 bananas, thinly sliced</ingredient>
+			<ingredient>2 passion fruits, flesh scooped out</ingredient>
+		</ingredients>
+		<method>
+			<step>
+				Sift the flour and baking powder into a bowl, and stir in 2 tbsp of the sugar and a pinch of salt. Pour the coconut milk into a bowl, whisk to mix in any fat that has separated, then measure out 300ml into a jug. Stir the milk slowly into the flour mixture to make a smooth batter, or whizz everything in a blender.
+			</step>
+			<step>
+				Heat a shallow frying pan or flat griddle and brush it with oil. Use 2 tbsp of batter to make each pancake, frying two at a time – any more will make it difficult to flip them. Push 4-5 pieces of banana into each pancake and cook until bubbles start to pop on the surface, and the edges look dry. They will be a little more delicate than egg-based pancakes, so turn them over carefully and cook the other sides for 1 min. Repeat to make 8-10 pancakes.
+			</step>
+			<step>
+				Meanwhile, put the remaining coconut milk and sugar in a small pan. Add a pinch of salt and simmer until the mixture thickens to the consistency of single cream. Use this as a sauce for the pancakes and spoon over some of the passion fruit seeds.
+			</step>
+		</method>
+	</recipe>
+	
+	<recipe id="2">
+		<title>Saddle of lamb</title>
+		<description>	
+			A classic Easter favourite, this saddle of lamb is stuffed with crunchy shallots, garlic and pancetta for a depth of flavour guaranteed to please your guests
+		</description>
+		<time>
+			<prep>20</prep>
+			<cook>75</cook>
+		</time>
+		<difficulty>More Effort</difficulty>
+		<serves>6</serves>
+		<nutrition>
+			<kcal>584</kcal>
+			<fat>43g</fat>
+			<saturates>20g</saturates>
+			<carbs>6g</carbs>
+			<sugars>1g</sugars>
+			<fibre>1g</fibre>
+			<protein>43g</protein>
+			<salt>0.7g</salt>
+		</nutrition>
+		<ingredients>
+			<ingredient>boned saddle of lamb weighing approx 1½ kg, skirts removed</ingredient>
+			<ingredient>2 rosemary sprigs</ingredient>
+			<ingredient>1 tsp olive oil</ingredient>
+			<ingredient>50ml white wine vinegar</ingredient>
+			<ingredient>25g butter</ingredient>
+			<ingredient>4 banana shallots, finely chopped</ingredient>
+			<ingredient>2 garlic cloves, crushed</ingredient>
+			<ingredient>50g pancetta cubes</ingredient>
+			<ingredient>small pack flat-leaf parsley, roughly chopped</ingredient>
+			<ingredient>6 sage leaves, torn</ingredient>
+			<ingredient>1 tsp grated lemon zest</ingredient>
+			<ingredient>50g fresh white breadcrumbs</ingredient>
+			<ingredient>1 egg yolk</ingredient>
+		</ingredients>
+		<method>
+			<step>
+				First, make the stuffing. In a large pan, melt the butter over a gentle heat and add the shallots. Cook slowly for about 10 mins until softening, then add the garlic and stir to combine for 1 min. Turn up the heat and add the pancetta and a little seasoning. Cook until the pancetta is crisp, and the shallots are tender and turning golden. Take off the heat, add the rest of the ingredients and stir to combine (it should not be too wet, as the stuffing should absorb some of the lamb juices when cooked). Set aside to cool.
+			</step>
+			<step>
+				Heat oven to 200C/180C fan/gas 6. Lay the lamb saddle out on a board, fat-side down. Arrange the stuffing in a line down the middle, bring the sides up and roll into a large sausage shape so the stuffing can only be seen at the ends. Using string, tie the saddle, tucking the rosemary under the string, then rub with salt and a little pepper.
+			</step>
+			<step>
+				Heat the oil in a large pan over a high heat and place the rolled lamb in the pan to seal the outside, turning every minute or so, until golden – about 6 mins. Remove from the pan and place in a roasting tin. Pour the vinegar over – this will help to crisp the skin – then cook in the oven for 1 hr. Leave to rest for at least 10 mins on a board covered loosely with foil.
+			</step>
+		</method>
+	</recipe>
+	
+	<recipe id="3">
+		<title>Texas barbecue brisket</title>
+		<description>	
+			Take your barbecue beyond the burger with this brilliant beef brisket
+		</description>
+		<time>
+			<prep>30</prep>
+			<cook>360</cook>
+		</time>
+		<difficulty>A Challenge</difficulty>
+		<serves>10</serves>
+		<nutrition>
+			<kcal>958</kcal>
+			<fat>59g</fat>
+			<saturates>26g</saturates>
+			<carbs>13g</carbs>
+			<sugars>10g</sugars>
+			<fibre>0g</fibre>
+			<protein>94g</protein>
+			<salt>1.2g</salt>
+		</nutrition>
+		<ingredients>
+			<ingredient>about a 5kg piece of beef brisket</ingredient>
+			<ingredient>500 ml beef stock</ingredient>
+			<ingredient>1 tbsp sunflower oil</ingredient>
+			<ingredient>1 small onion, finely chopped</ingredient>
+			<ingredient>3 garlic cloves, crushed</ingredient>
+			<ingredient>500 ml tomato ketchup</ingredient>
+			<ingredient>100 ml Worcestershire sauce</ingredient>
+			<ingredient>75 ml lemon juice</ingredient>
+			<ingredient>2 tbsp brown sugar</ingredient>
+			<ingredient>1 tbsp malt vinegar</ingredient>
+			<ingredient>2 tsp Dijon mustard</ingredient>
+			<ingredient>1 tsp crushed chilli flakes</ingredient>
+			<ingredient>1 tsp Tabasco sauce</ingredient>
+			<ingredient>1 tsp dried thyme</ingredient>
+			<ingredient>2 tbsp each chilli powder and mustard powder</ingredient>
+			<ingredient>1 bay leaf, crushed</ingredient>
+		</ingredients>
+		<method>
+			<step>
+				To make the barbecue sauce, heat the oil in a frying pan, then cook onion and garlic for a few mins until soft. Add the rest of the sauce ingredients to the pan with a good pinch of salt and simmer for 20 mins. Use a hand blender or food processor to whizz to a smooth purée.
+			</step>
+			<step>
+				Heat oven to 150C/130C fan/gas 2. Make the rub by mixing all the ingredients together with a pinch of salt. Rub the mix all over the beef and set aside.
+			</step>
+			<step>
+				In a large roasting tin, mix the beef stock and ½ the barbecue sauce. Add the brisket to the tin, cover tightly with foil, then cook for 4-5 hrs until the meat is really tender when you push a fork into it. The beef can be prepared the night before – just leave it to cool in the tin covered with foil, but don’t refrigerate.
+			</step>
+			<step>
+				To finish the beef, get a barbecue fired up and wait until the coals are completely ashen – you want a low, not fierce, heat. Lift the beef out of the roasting tin and place on the barbecue to char. If your barbecue has a lid, close it now. Cook for about 20 mins, turning it carefully with tongs, until lightly charred all over and heated through. Lift onto a board and serve sliced with the remaining barbecue sauce on the side.
+			</step>
+		</method>
+	</recipe>
+	
+	<recipe id="4">
+		<title>Lobster with Thermidor butter</title>
+		<description>	
+			A luxury that has been prized by chefs for years, so make the most of it with this cheat's classic
+		</description>
+		<time>
+			<prep>15</prep>
+			<cook>45</cook>
+		</time>
+		<difficulty>More Effort</difficulty>
+		<serves>2</serves>
+		<nutrition>
+			<kcal>419</kcal>
+			<fat>34g</fat>
+			<saturates>20g</saturates>
+			<carbs>3g</carbs>
+			<sugars>2g</sugars>
+			<fibre>0g</fibre>
+			<protein>24g</protein>
+			<salt>1.62g</salt>
+		</nutrition>
+		<ingredients>
+			<ingredient>2 cooked lobsters</ingredient>
+			<ingredient>150ml dry white wine</ingredient>
+			<ingredient>1 shallot, very finely chopped</ingredient>
+			<ingredient>handful tarragon leaves, chopped</ingredient>
+			<ingredient>handful parsley leaves, chopped</ingredient>
+			<ingredient>1 tsp Dijon mustard</ingredient>
+			<ingredient>100 ml Worcestershire sauce</ingredient>
+			<ingredient>juice 1⁄2 lemon</ingredient>
+			<ingredient>pinch paprika</ingredient>
+			<ingredient>dash Tabasco sauce</ingredient>
+			<ingredient>140g butter, softened</ingredient>
+		</ingredients>
+		<method>
+			<step>
+				First make the butter. Put the wine and shallot into a pan, then bring to the boil and simmer until nearly dry. Tip into a bowl to cool, mix all the ingredients together, roll into a log, using cling film or foil, then chill to harden. Can be frozen for up to 1 month.
+			</step>
+			<step>
+				Snap away the claws from the lobster. Using a large chef’s knife, cut the lobster in half and wash the head cavity under cold water, then dry with kitchen paper. Lay the lobsters, cut side up, on a baking tray. Crack the claws and remove the claw meat. Divide claw meat between the head cavities. This can be done the day before and the lobster kept in the fridge ready for grilling.
+			</step>
+			<step>
+				Heat grill to high. Slice the butter into thin rounds and lay it along the lobsters so all the meat is covered. Grill for 5-8 mins until the butter is bubbling and starting to brown. Put the lobsters on plates, pouring any butter from the tray over them. Serve with new potatoes and some dressed salad leaves.
+			</step>
+		</method>
+	</recipe>
+	
+	<recipe id="5">
+		<title>Summer couscous salad</title>
+		<description>	
+			A Middle Eastern treat, ready in minutes
+		</description>
+		<time>
+			<prep>10</prep>
+			<cook>40</cook>
+		</time>
+		<difficulty>Easy</difficulty>
+		<serves>4</serves>
+		<nutrition>
+			<kcal>721</kcal>
+			<fat>50g</fat>
+			<saturates>14g</saturates>
+			<carbs>47g</carbs>
+			<sugars>1g</sugars>
+			<fibre>4g</fibre>
+			<protein>23g</protein>
+			<salt>2.86g</salt>
+		</nutrition>
+		<ingredients>
+			<ingredient>250g couscous</ingredient>
+			<ingredient>250ml vegetable stock, boiling</ingredient>
+			<ingredient>400g can chickpeas, drained and rinsed</ingredient>
+			<ingredient>1-2 tbsp vegetable or olive oil</ingredient>
+			<ingredient>300g courgette, sliced on the slant</ingredient>
+			<ingredient>300g small vine-ripened tomatoes, halved</ingredient>
+			<ingredient>250g pack halloumi cheese</ingredient>
+			<ingredient>125ml olive oil</ingredient>
+			<ingredient>3 tbsp lime juice</ingredient>
+			<ingredient>2 large garlic cloves, finely chopped</ingredient>
+			<ingredient>2 tbsp chopped fresh mint</ingredient>
+			<ingredient>½ tsp sugar</ingredient>
+		</ingredients>
+		<method>
+			<step>
+				Tip the couscous into a bowl, pour the boiling stock over and mix well with a fork. Cover with a plate and leave for 4 minutes. Meanwhile, tip all the dressing ingredients into a bowl and mix well. Fluff up the couscous with a fork, stir in the chickpeas and follow with half the dressing. Mix well and pile on to a large serving dish.
+			</step>
+			<step>
+				Heat 1 tbsp oil in a large frying pan and fry the courgette slices over a high heat for 2-3 minutes until dark golden brown. Lift out on to kitchen paper. Now put the tomatoes cut-side down into the pan, and cook for another couple of minutes until tinged brown on the underside. Top the couscous with the courgettes and then the tomatoes.
+			</step>
+			<step>
+				If the pan is dry, pour in a little more oil and heat it up, then add the halloumi strips and fry for 2-3 minutes, turning them over from time to time, until crisp and sizzled brown. Pile on top of the tomatoes, and drizzle with the remaining dressing. Serve as soon as possible.
+			</step>
+		</method>
+	</recipe>
+	
+	<recipe id="6">
+		<title>Onion bhajis with raita</title>
+		<description>	
+			Cook crispy onion bhajis with cooling cucumber and mint raita as a snack, or alongside a homemade Indian curry
+		</description>
+		<time>
+			<prep>30</prep>
+			<cook>20</cook>
+		</time>
+		<difficulty>Easy</difficulty>
+		<serves>12</serves>
+		<nutrition>
+			<kcal>86</kcal>
+			<fat>5g</fat>
+			<saturates>1g</saturates>
+			<carbs>7g</carbs>
+			<sugars>2g</sugars>
+			<fibre>1g</fibre>
+			<protein>3g</protein>
+			<salt>0.3g</salt>
+		</nutrition>
+		<ingredients>
+			<ingredient>2 onions, finely sliced</ingredient>
+			<ingredient>100g gram flour</ingredient>
+			<ingredient>½ tsp gluten-free baking powder</ingredient>
+			<ingredient>½ tsp chilli powder</ingredient>
+			<ingredient>½ tsp turmeric</ingredient>
+			<ingredient>1 green chilli, deseeded and very finely chopped</ingredient>
+			<ingredient>vegetable oil for frying</ingredient>
+			<ingredient>½ cucumber</ingredient>
+			<ingredient>150g tub Greek-style yogurt</ingredient>
+			<ingredient>2 tbsp chopped mint</ingredient>
+		</ingredients>
+		<method>
+			<step>
+				Soak the onion in cold water while you make the base mix. Sift the flour and baking powder into a bowl, then add the chilli powder, turmeric, chopped chilli and a good sprinkling of salt. Mix in about 100ml of cold water to make a thick batter – add a splash more if it feels too stiff.
+			</step>
+			<step>
+				For the raita, peel the cucumber and grate it into a sieve set over another bowl. Mix the remaining ingredients with some seasoning and the drained cucumber – squeezing out any extra moisture with your hands – then spoon into a small serving bowl.
+			</step>
+			<step>
+				Drain the onion well and mix it into the batter. Heat about 5cm of oil in a wok or deep pan. Do not fill the pan more than a third full. Add a tiny speck of batter. If it rises to the surface surrounded by bubbles and starts to brown, then the oil is hot enough for frying.
+			</step>
+			<step>
+				Lower heaped tbsps of the bhaji mixture into the pan, a few at a time, and cook for a few mins, turning once, until they are evenly browned and crisp, so about 3-4 mins. Drain on kitchen paper, sprinkle with a little salt and keep warm while you cook the rest. Serve with the raita.
+			</step>
+		</method>
+	</recipe>
+	
+</recipes>

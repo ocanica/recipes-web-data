@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  
+    <xs:element name="recipes">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="recipe" type="RecipeType" minOccurs="1" maxOccurs="unbounded"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+     
+    <xs:complexType name="RecipeType">
+        <xs:sequence>
+            <xs:element name="title" type="xs:string"/>
+            <xs:element name="description" type="xs:string"/>
+            <xs:element name="time" type="TimeType"/>
+            <xs:element name="difficulty">
+                <xs:simpleType>
+                    <xs:restriction base="xs:string">
+                        <xs:enumeration value="Easy"/>
+                        <xs:enumeration value="More Effort"/>
+                        <xs:enumeration value="A Challenge"/>
+                    </xs:restriction>
+                </xs:simpleType>
+            </xs:element>
+            <xs:element name="serves" type="xs:positiveInteger"/>
+            <xs:element name="nutrition" type="NutritionType"/>
+            <xs:element name="ingredients" type="IngredientsType"/>
+            <xs:element name="method" type="MethodType"/>
+        </xs:sequence>
+        <xs:attribute name="id" type="xs:positiveInteger"/>
+    </xs:complexType>
+    
+    <xs:complexType name="TimeType">
+        <xs:sequence>
+            <xs:element name="prep" type="xs:positiveInteger"/>
+            <xs:element name="cook" type="xs:positiveInteger"/>
+        </xs:sequence>
+    </xs:complexType>
+    
+    <xs:complexType name="NutritionType">
+        <xs:sequence>
+            <xs:element name="kcal" type="xs:positiveInteger"/>
+            <xs:element name="fat" type="xs:string"/>
+            <xs:element name="saturates" type="xs:string"/>
+            <xs:element name="carbs" type="xs:string"/>
+            <xs:element name="sugars" type="xs:string"/>
+            <xs:element name="fibre" type="xs:string"/>
+            <xs:element name="protein" type="xs:string"/>
+            <xs:element name="salt" type="xs:string"/>
+        </xs:sequence>
+    </xs:complexType>
+    
+    <xs:complexType name="IngredientsType">
+        <xs:sequence>
+            <xs:element name="ingredient" type="xs:string" minOccurs="1" maxOccurs="unbounded"/>
+        </xs:sequence>
+    </xs:complexType>
+    
+    <xs:complexType name="MethodType">
+        <xs:sequence>
+            <xs:element name="step" type="xs:string" minOccurs="1" maxOccurs="unbounded"/>
+        </xs:sequence>
+    </xs:complexType>
+    
+</xs:schema>
